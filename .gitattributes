@@ -4,3 +4,4 @@ NEXA_demo_21Oct.exe filter=lfs diff=lfs merge=lfs -text
 =======
 NEXA_demo.exe filter=lfs diff=lfs merge=lfs -text
 >>>>>>> 74eafdb2b4f8d03369d41f7c6118913d55f2b751
+*.zip filter=lfs diff=lfs merge=lfs -text
